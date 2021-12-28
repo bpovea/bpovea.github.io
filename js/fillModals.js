@@ -1,4 +1,22 @@
 const pastWorks = {
+    'Aqueduct': "<b>Date</b>: Jul 2021 - Present<br/>\
+        <b>Role</b>: Quality Engineer / Data Engineer. <br/>\
+        <b>Technologies</b>: Python, Docker, SFTP, Flyway, Great expectations, Airflow, AWS. <br/>\
+        <b>Summary</b>:  This project is a data ingest automatization for a company that estimates \
+        community and personal risk factors based on Raw data from different clients, like economical \
+        partners, hospitals, and geolocations.",
+    'Odoo modules migration from V10.0 to V14.0': "<b>Date</b>: Mar 2021 - Jun 2021<br/>\
+        <b>Role</b>: FullStack Developer.<br/>\
+        <b>Technologies</b>: Python 2.7 / 3.9, XML, Postgres, Linux, Docker. <br/>\
+        <b>Summary</b>:  This project consists of a code migration. We have a stable version using \
+        ODOO 10.0, but now, we are moving forward to version 14.0. ODOO 10 was developed using Python \
+        2 and the new version uses Python 3. There are many code improvements, some deprecated libraries, \
+        and new features available.",
+    'Ecuadorian Firing Severance': "<b>Date</b>: Dec 2020 - Feb 2021<br/>\
+        <b>Role</b>: FullStack Developer. <br/>\
+        <b>Technologies</b>: Python, XML, Postgres, Linux, Docker. <br/>\
+        <b>Summary</b>:  This module automates the firing process and calculates the legal severance \
+        for each case following the Ecuadorian Law.",
     'Ganado Control': "<b>Date</b>: Dec 2020<br/>\
                 <b>Role</b>: FullStack Developer. <br/>\
                 <b>Technologies</b>: Python, Django, HTML, CSS, Nginx, Linux. <br/>\
