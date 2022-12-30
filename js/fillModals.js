@@ -1,10 +1,10 @@
 const pastWorks = {
     'Aqueduct': "<b>Date</b>: Jul 2021 - Present<br/>\
         <b>Role</b>: Quality Engineer / Data Engineer. <br/>\
-        <b>Technologies</b>: Python, Docker, SFTP, Flyway, Great expectations, Airflow, AWS. <br/>\
+        <b>Technologies</b>: Python, Docker, SFTP, Flyway, Great expectations, Airflow, AWS, Terraform. <br/>\
         <b>Summary</b>:  This project is a data ingest automatization for a company that estimates \
-        community and personal risk factors based on Raw data from different clients, like economical \
-        partners, hospitals, and geolocations.",
+        community and personal risk factors based on Raw data from different partners such as credit card \
+        partners and hospitals.",
     'Odoo modules migration from V10.0 to V14.0': "<b>Date</b>: Mar 2021 - Jun 2021<br/>\
         <b>Role</b>: FullStack Developer.<br/>\
         <b>Technologies</b>: Python 2.7 / 3.9, XML, Postgres, Linux, Docker. <br/>\
